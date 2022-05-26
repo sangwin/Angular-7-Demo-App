@@ -1,3 +1,9 @@
+
+## [Updated Version Available (V13)](https://github.com/sangwin/Student-Management-Angular-13-CRUD)
+
+## [Click here for the demo](https://blog.sangw.in/angular-student-management/)
+
+
 # Angular 7 - Demo CRUD Application / Project for Beginners
 # Student Management
 ### Created By [Sangwin Gawande](http://sangw.in)
